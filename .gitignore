@@ -1,5 +1,5 @@
-# Built application files
 *.apk
+# Built application files
 *.aar
 *.ap_
 *.aab
@@ -82,4 +82,8 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+<<<<<<< HEAD
 # lint/reports/
+=======
+# lint/reports/
+>>>>>>> Initial Commit
